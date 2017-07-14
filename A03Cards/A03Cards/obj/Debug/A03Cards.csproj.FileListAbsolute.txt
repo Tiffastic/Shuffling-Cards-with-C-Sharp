@@ -1,0 +1,7 @@
+C:\Users\Thuy\AppData\Local\Temporary Projects\A03Cards\bin\Debug\A03Cards.exe.config
+C:\Users\Thuy\Documents\Visual Studio 2013\Projects\2530\A03Cards\A03Cards\bin\Debug\A03Cards.exe.config
+C:\Users\Thuy\Documents\Visual Studio 2013\Projects\2530\A03Cards\A03Cards\bin\Debug\A03Cards.exe
+C:\Users\Thuy\Documents\Visual Studio 2013\Projects\2530\A03Cards\A03Cards\bin\Debug\A03Cards.pdb
+C:\Users\Thuy\Documents\Visual Studio 2013\Projects\2530\A03Cards\A03Cards\obj\Debug\A03Cards.exe
+C:\Users\Thuy\Documents\Visual Studio 2013\Projects\2530\A03Cards\A03Cards\obj\Debug\A03Cards.pdb
+C:\Users\Thuy\Documents\Visual Studio 2013\Projects\2530\A03Cards\A03Cards\obj\Debug\A03Cards.csprojResolveAssemblyReference.cache
